@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env*
+ngrok_url.json
+.orion_browser_profile/
+.playwright_browsers/

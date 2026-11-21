@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-socketio[asgi]
+numpy
+pillow
+torch
+torchvision
+opencv-python-headless
+mediapipe
+google-genai
+python-dotenv
+requests
+websockets
+pydantic
+albumentations
+pyngrok

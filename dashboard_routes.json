@@ -1,0 +1,76 @@
+{
+  "routes": [
+    {
+      "id": "dashboard",
+      "label": "Home",
+      "aliases": [
+        "home",
+        "dashboard",
+        "home dashboard",
+        "main dashboard",
+        "main screen",
+        "start screen",
+        "landing page",
+        "front page",
+        "today view"
+      ]
+    },
+    {
+      "id": "skin_analysis",
+      "label": "Skin Analysis",
+      "aliases": [
+        "skin analysis",
+        "skin",
+        "skin scan",
+        "skin scanner",
+        "skin check",
+        "face scan",
+        "face analysis",
+        "skincare",
+        "skin module"
+      ]
+    },
+    {
+      "id": "home_control",
+      "label": "Home Control",
+      "aliases": [
+        "home control",
+        "smart home",
+        "home automation",
+        "devices",
+        "device control",
+        "lights",
+        "controls",
+        "home devices",
+        "smart devices"
+      ]
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "aliases": [
+        "health",
+        "health module",
+        "health dashboard",
+        "wellness",
+        "vitals",
+        "fitness",
+        "health screen"
+      ]
+    },
+    {
+      "id": "settings",
+      "label": "Settings",
+      "aliases": [
+        "settings",
+        "setting",
+        "preferences",
+        "options",
+        "configuration",
+        "config",
+        "setup",
+        "settings page"
+      ]
+    }
+  ]
+}
