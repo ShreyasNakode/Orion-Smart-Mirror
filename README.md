@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Orion-Smart-Mirror
 
 Orion Smart Mirror is a Raspberry Pi 3B+ powered interactive mirror that integrates real-time information, smart home control through Lovelace Home Assistant, and AI-powered skin analysis using the YouCam API. It provides personalized skincare insights, product recommendations, and a seamless smart living experience.
